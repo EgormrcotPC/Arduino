@@ -1,4 +1,5 @@
-                                                                                String val;
+// Пример
+String val;
 String IP = "971.883.209.62";
 
 void setup() {
